@@ -3,7 +3,7 @@
 This is a hack and slash job of a tutorial I found on the interwebs. 
 It's useful to refer to the page, but a lot of the code is there.
 
-
+![Alt Text](SSD1306_Display.jpg)
 
 ## STM32 Black Pill
 
